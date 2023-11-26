@@ -14,7 +14,7 @@ const Contact = () => {
     message: "",
   });
   const [isLoading, setIsLoading] = useState(false);
-  const [currentAnimation, setCurrentAnimation] = useState("dile");
+  const [currentAnimation, setCurrentAnimation] = useState("idle");
 
   const { alert, showAlert, hideAlert } = useAlert();
 
@@ -64,7 +64,7 @@ const Contact = () => {
         });
       });
   };
-  const handleFocus = () => setCurrentAnimation("wailk");
+  const handleFocus = () => setCurrentAnimation("walk");
   const handleBlur = () => setCurrentAnimation("idle");
   return (
     <section className="relative flex lg:flex-row flex-col max-container">
