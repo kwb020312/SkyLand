@@ -173,12 +173,12 @@ export const socialLinks = [
   {
     name: "GitHub",
     iconUrl: github,
-    link: "https://github.com/YourGitHubUsername",
+    link: "https://github.com/kwb020312",
   },
   {
-    name: "LinkedIn",
+    name: "Velog",
     iconUrl: linkedin,
-    link: "https://www.linkedin.com/in/YourLinkedInUsername",
+    link: "https://velog.io/@kwb020312",
   },
 ];
 
@@ -186,49 +186,48 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: "btn-back-red",
-    name: "Amazon Price Tracker",
+    name: "PriceTracker",
     description:
-      "Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.",
-    link: "https://github.com/adrianhajdin/pricewise",
+      "🎫Amazon 상품 최저가를 스크래핑 해 E Commercial Price Tracker를 구축하기",
+    link: "https://price-tracer-seven.vercel.app/",
   },
   {
     iconUrl: threads,
     theme: "btn-back-green",
-    name: "Full Stack Threads Clone",
+    name: "GraveKeeper",
     description:
-      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: "https://github.com/adrianhajdin/threads",
+      "👻할로윈을 맞이해 ThreeJS Drei 라이브러리를 활용하여 으스스한 공동묘지 만들기, Float, Sparkles, GodRays(중요!) 학습하기",
+    link: "https://grave-keeper.vercel.app/",
   },
   {
     iconUrl: car,
     theme: "btn-back-blue",
-    name: "Car Finding App",
+    name: "Metaverse Race",
     description:
-      "Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.",
+      "🚗3D 차 구현 및 주변 사물과 상호작용하며, 직접 컨트롤 가능한 레이싱 게임 구현 공부",
     link: "https://github.com/adrianhajdin/project_next13_car_showcase",
   },
   {
     iconUrl: snapgram,
     theme: "btn-back-pink",
-    name: "Full Stack Instagram Clone",
+    name: "Iphone Introduce",
     description:
-      "Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.",
-    link: "https://github.com/adrianhajdin/social_media_app",
+      "📱 아이폰 소개 페이지 3년만에 다시 만들면 얼마나 더 잘할 수 있을지 궁금해져서 만들어보았음",
+    link: "https://introduce-iphone.vercel.app/",
   },
   {
     iconUrl: estate,
     theme: "btn-back-black",
-    name: "Real-Estate Application",
-    description:
-      "Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.",
-    link: "https://github.com/adrianhajdin/projects_realestate",
+    name: "ChobsPDF",
+    description: "🤔PDF 편집/생성이 가능한 Saas 만들기",
+    link: "https://chobs-pdf.vercel.app/",
   },
   {
     iconUrl: summiz,
     theme: "btn-back-yellow",
-    name: "AI Summarizer Application",
+    name: "AI_Summarizer",
     description:
-      "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.",
-    link: "https://github.com/adrianhajdin/project_ai_summarizer",
+      "🎞AI를 활용한 중요 기사를 요약하는 웹 애플리케이션을 만들어보기",
+    link: "https://ai-summarizer-kwb020312.vercel.app/",
   },
 ];
