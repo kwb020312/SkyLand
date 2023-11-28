@@ -25,7 +25,7 @@ const renderContent = {
         "실무에서 경험한 다양한 영역의 숙련도를 바탕으로 많은 포트폴리오를 제작하며, 알고리즘 풀이도 진행하고있어요!"
       }
       link={"/about"}
-      btnText={"블로그 보러가기"}
+      btnText={"스킬 보러가기"}
     />
   ),
   3: (
@@ -34,7 +34,7 @@ const renderContent = {
         "웹, 모바일에서 사용될 미래 기술인 3D 와 AI 기술에 관심을 갖고 공부하고있어요!"
       }
       link={"/projects"}
-      btnText={"깃허브 보러가기"}
+      btnText={"프로젝트 보러가기"}
     />
   ),
   4: (
