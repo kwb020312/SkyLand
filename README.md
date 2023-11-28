@@ -1,5 +1,9 @@
 # 🛫SkyLand
 
+<img src="./src/assets/favicon.ico" />
+
+[직접 보러가기](https://sky-land.vercel.app/)
+
 ### 😀어떤 저장소인가요?
 
 👂대화형 ThreeJS 렌더링 구현, Model Animation 연습을 위해 구현된 저장소
